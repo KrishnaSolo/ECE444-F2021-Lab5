@@ -1,0 +1,9 @@
+#common-page-intro-container {
+    margin: 40px auto;
+}
+
+#common-page-feedback-container {
+    margin-top: 20px;
+    font-style: italic;
+    color: rgba(53,53,53,0.705);
+}
